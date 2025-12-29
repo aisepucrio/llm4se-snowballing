@@ -4,7 +4,7 @@
 
 Este é o repositório que contém os scripts, os gráficos e a planilha relatados no artigo que compõe o Projeto Final de Graduação do aluno Matheus S. Moreira.
 
-# Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 /repositório
@@ -25,5 +25,6 @@ O projeto não exige dependências, mas recomenda-se o uso do Jupyter Notebook p
 
 - **Função**: Proprietário
 - **Contato**: matheus.sam.10@gmail.com
+
 
 
