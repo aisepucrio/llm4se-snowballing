@@ -1,26 +1,15 @@
-# Nome do Projeto
+# Grandes Modelos de Linguagem na Engenharia de Software: Uma Revisão da Literatura Usando Forward Snowballing
 
 ## Descrição
 
-Este espaço deve ser usado para fornecer uma descrição detalhada do projeto. Explique o propósito do projeto, as tecnologias usadas, e qualquer outra informação relevante que ajudará outros desenvolvedores e colaboradores a entenderem o projeto.
+Este é o repositório que contém os scripts, os gráficos e a planilha relatados no artigo que compõe o Projeto Final de Graduação do aluno Matheus S. Moreira.
 
 # Estrutura do Repositório
-
-Seu repositório deve seguir uma estrutura padronizada para garantir consistência e facilidade de uso. Abaixo está um esboço dos principais diretórios e arquivos que devem ser incluídos no seu projeto:
 
 ```
 /repositório
 │
 ├── docs/                          # Documentação do projeto
-│   └── project_documentation.md   # Documentação detalhada do projeto
-│
-├── src/                      # Código fonte do projeto
-│   ├── main.py               # Arquivo principal do projeto
-│   └── (outros arquivos de código)
-│
-├── tests/                    # Testes automatizados
-│   ├── test_main.py          # Testes para main.py
-│   └── (outros arquivos de teste)
 │
 ├── .gitignore                # Especifica arquivos intencionalmente não rastreados para ignorar
 ├── LICENSE                   # Licença do projeto
@@ -52,18 +41,10 @@ Para utilizar este template em seu projeto, siga os passos abaixo:
 
 ## Instalação de Dependências
 
-Para instalar as dependências do projeto, execute o seguinte comando:
-
-```sh
-pip install -r requirements.txt
-```
-
+O projeto não exige dependências, mas recomenda-se o uso do Jupyter Notebook para acesso e reprodução dos códigos.
 
 ## Responsáveis
 
 - **Função**: Proprietário
-- **Contato**: aise@aise.inf.puc-rio.br
+- **Contato**: matheus.sam.10@gmail.com
 
-## Licença
-
-Inclua informações sobre a licença sob a qual o projeto é distribuído. Isso pode variar dependendo das políticas do seu laboratório ou organização.
