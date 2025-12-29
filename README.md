@@ -9,12 +9,10 @@ Este é o repositório que contém os scripts, os gráficos e a planilha relatad
 ```
 /repositório
 │
-├── docs/                          # Documentação do projeto
-│
+├── docs/                     # Documentação do projeto
 ├── .gitignore                # Especifica arquivos intencionalmente não rastreados para ignorar
 ├── LICENSE                   # Licença do projeto
-├── README.md                 # Descrição e explicação do projeto, incluindo como configurar e executar
-└── requirements.txt          # Dependências do projeto
+└── README.md                 # Descrição e explicação do projeto, incluindo como configurar e executar
 ```
 
 ## Instalação de Dependências
@@ -25,6 +23,7 @@ O projeto não exige dependências, mas recomenda-se o uso do Jupyter Notebook p
 
 - **Função**: Proprietário
 - **Contato**: matheus.sam.10@gmail.com
+
 
 
 
